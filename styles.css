@@ -1,2 +1,99 @@
+body {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-color: #48fdba;
+}
 
-/* Your CSS Code here. */
+/* navigation bar?] */
+ul {
+    margin: 0;
+}
+
+li {
+    color: rgb(255, 255, 255);
+    display: inline-block;
+    margin: 15px;
+}
+
+/* li:hover {
+    color: rgb(5, 44, 0);
+} */
+
+.navigation {
+    color: black;
+    font-weight: bolder;
+    background-color: #04AA6D;
+    padding: 3px;
+    width: 90%;
+    border-radius: 50px;
+    margin: auto;
+}
+
+.navigation h1 {
+    display: inline-block;
+}
+
+/* /////////////////////////////////////////// */
+#img {
+    margin: 70px;
+    display: inline-block;
+
+}
+
+#summary {
+    text-align: justify;
+    border: solid black;
+    padding: 20px;
+    width: 50%;
+    display: inline-block;
+    border-radius: 50px;
+
+
+}
+
+#actor {
+    text-align: justify;
+    border: solid black;
+    padding: 20px;
+    width: 50%;
+    display: inline-block;
+    border-radius: 50px;
+}
+
+#quote {
+    text-align: justify;
+    border: solid black;
+    padding: 20px;
+    width: 50%;
+    display: inline-block;
+    border-radius: 50px;
+    margin-top: 10px;
+}
+
+#rating {
+    text-align: justify;
+    border: solid black;
+    padding: 20px;
+    width: 50%;
+    display: inline-block;
+    border-radius: 50px;
+    margin-top: 10px;
+}
+
+footer {
+    border-top: solid 5px green;
+    margin-top: 30px;
+    background-color: #04AA6D;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    border-radius: 50px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(5, 44, 0);
+}
